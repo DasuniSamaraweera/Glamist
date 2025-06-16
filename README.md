@@ -6,7 +6,7 @@ A complete web-based solution to elevate salon operations and customer satisfact
 
 ## 🌟 Overview
 
-**Glamist** is a MERN-stack salon management system developed as the final project for the **IT2080** course at the **Sri Lanka Institute of Information Technology (SLIIT)** by **Group ITP_KDY_GRP_09**.  
+**Glamist** is a MERN-stack salon management system.
 It simplifies and digitizes salon workflows by offering centralized modules for:
 
 - 📅 Appointment Scheduling  
